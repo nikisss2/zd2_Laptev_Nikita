@@ -240,16 +240,21 @@ namespace zd2_Laptev
         // добавление по объекту
         private void AddObject_Click(object sender, RoutedEventArgs e)
         {
-            // проверки имени и телефона
             if (!IsValidName(txtName.Text))
                 return;
 
             if (!IsValidPhone(txtPhone.Text))
                 return;
 
+            // проверка на дубликат номера
+            if (phoneBook.ContainsPhone(txtPhone.Text))
+            {
+                MessageBox.Show("Контакт с таким номером уже существует!");
+                return;
+            }
+
             try
             {
-                // перегрузка Add(Contact)
                 Contact c = new Contact(txtName.Text.Trim(), txtPhone.Text.Trim());
                 phoneBook.Add(c);
 
@@ -269,16 +274,21 @@ namespace zd2_Laptev
         // добавление по полям (перегрузка)
         private void AddFields_Click(object sender, RoutedEventArgs e)
         {
-            // проверки имени и телефона
             if (!IsValidName(txtName.Text))
                 return;
 
             if (!IsValidPhone(txtPhone.Text))
                 return;
 
+            // проверка на дубликат номера
+            if (phoneBook.ContainsPhone(txtPhone.Text))
+            {
+                MessageBox.Show("Контакт с таким номером уже существует!");
+                return;
+            }
+
             try
             {
-                // перегрузка Add(string, string)
                 phoneBook.Add(txtName.Text.Trim(), txtPhone.Text.Trim());
 
                 ClearInputs();

@@ -23,6 +23,41 @@ namespace zd2_Laptev
             get { return contacts.Count; }
         }
 
+        // оставить в строке только цифры
+        private string OnlyDigits(string phone)
+        {
+            string result = "";
+
+            if (phone == null)
+                return result;
+
+            foreach (char ch in phone)
+            {
+                if (char.IsDigit(ch))
+                {
+                    result += ch;
+                }
+            }
+
+            return result;
+        }
+
+        // проверка существует ли уже такой номер
+        public bool ContainsPhone(string phone)
+        {
+            string newDigits = OnlyDigits(phone);
+
+            foreach (Contact c in contacts)
+            {
+                if (OnlyDigits(c.Phone) == newDigits)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
         // добавление контакта (объектом)
         public void Add(Contact contact)
         {

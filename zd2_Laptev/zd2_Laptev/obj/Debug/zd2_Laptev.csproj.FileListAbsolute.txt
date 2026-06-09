@@ -1,0 +1,15 @@
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\zd2_Laptev.csproj.AssemblyReference.cache
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\MainWindow.baml
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\MainWindow.g.cs
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\App.g.cs
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\zd2_Laptev_MarkupCompile.cache
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\zd2_Laptev.g.resources
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\zd2_Laptev.Properties.Resources.resources
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\zd2_Laptev.csproj.GenerateResource.cache
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\zd2_Laptev.csproj.CoreCompileInputs.cache
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\bin\Debug\zd2_Laptev.exe.config
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\bin\Debug\zd2_Laptev.exe
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\bin\Debug\zd2_Laptev.pdb
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\zd2_Laptev.exe
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\zd2_Laptev.pdb
+Z:\Desktop\Программирование\Учебная практика\zd2_Laptev_Nikita\zd2_Laptev\zd2_Laptev\obj\Debug\zd2_Laptev.exe.config

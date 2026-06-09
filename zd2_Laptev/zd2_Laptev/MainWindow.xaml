@@ -1,0 +1,40 @@
+﻿<Window x:Class="zd2_Laptev.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Телефонная книга" Height="450" Width="600"
+        WindowStartupLocation="CenterScreen">
+
+    <DockPanel>
+
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Открыть" Click="Open_Click"/>
+                <MenuItem Header="Сохранить" Click="Save_Click"/>
+                <Separator/>
+                <MenuItem Header="Выход" Click="Exit_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="Контакты">
+                <MenuItem Header="Показать все" Click="ShowAll_Click"/>
+                <MenuItem Header="Поиск по имени" Click="Find_Click"/>
+                <MenuItem Header="Сортировка по имени" Click="Sort_Click"/>
+                <Separator/>
+                <MenuItem Header="Добавить (объект)" Click="AddObject_Click"/>
+                <MenuItem Header="Добавить (поля)" Click="AddFields_Click"/>
+                <Separator/>
+                <MenuItem Header="Удалить выбранный" Click="RemoveIndex_Click"/>
+                <MenuItem Header="Удалить по имени" Click="RemoveName_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <StackPanel DockPanel.Dock="Right" Width="200" Margin="10">
+            <TextBlock Text="Имя:"/>
+            <TextBox x:Name="txtName" Margin="0,0,0,5"/>
+            <TextBlock Text="Телефон:"/>
+            <TextBox x:Name="txtPhone" Margin="0,0,0,10"/>
+        </StackPanel>
+
+        <ListBox x:Name="listBoxContacts" Margin="10" FontSize="14"/>
+
+    </DockPanel>
+</Window>

@@ -1,0 +1,30 @@
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.csproj.AssemblyReference.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\MainWindow.baml
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\MainWindow.g.cs
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\App.g.cs
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop_MarkupCompile.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.g.resources
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.Properties.Resources.resources
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.csproj.GenerateResource.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.csproj.CoreCompileInputs.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\bin\Debug\zd2_Shop.exe.config
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\bin\Debug\zd2_Shop.exe
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\bin\Debug\zd2_Shop.pdb
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.exe
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.pdb
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.exe.config
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\bin\Debug\zd2_Shop.exe.config
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\bin\Debug\zd2_Shop.exe
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\bin\Debug\zd2_Shop.pdb
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.csproj.AssemblyReference.cache
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.exe.config
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\MainWindow.baml
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\MainWindow.g.cs
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\App.g.cs
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop_MarkupCompile.cache
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.g.resources
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.Properties.Resources.resources
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.csproj.GenerateResource.cache
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.csproj.CoreCompileInputs.cache
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.exe
+Z:\Desktop\Программирование\Учебная_практика\zd1_Laptev_Nikita\zd2_Shop\zd2_Shop\obj\Debug\zd2_Shop.pdb

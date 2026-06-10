@@ -1,0 +1,44 @@
+﻿<Window x:Class="zd2_Shop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Магазин" Height="500" Width="500">
+    <DockPanel>
+
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Действия">
+                <MenuItem Header="Добавить товар" Click="AddMenu_Click"/>
+                <MenuItem Header="Продать товар" Click="SellMenu_Click"/>
+                <MenuItem Header="Отчёт" Click="ReportMenu_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Название:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <TextBox x:Name="NameBox" Width="100" Margin="0,0,10,0"/>
+                <TextBlock Text="Цена:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <TextBox x:Name="PriceBox" Width="60" Margin="0,0,10,0"/>
+                <TextBlock Text="Кол-во:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <TextBox x:Name="CountBox" Width="50" Margin="0,0,10,0"/>
+            </StackPanel>
+
+            <ListBox x:Name="ProductsList" Grid.Row="1"/>
+
+            <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,10,0,0">
+                <TextBlock Text="Продать кол-во:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <TextBox x:Name="SellCountBox" Width="50" Margin="0,0,10,0"/>
+            </StackPanel>
+
+           
+            <TextBlock x:Name="ProfitText" Grid.Row="3" Margin="0,10,0,0"
+                       Text="Прибыль магазина: 0 руб." FontWeight="Bold"/>
+        </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,15 @@
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\zd3_Laptev_Nikita.csproj.AssemblyReference.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\MainWindow.baml
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\MainWindow.g.cs
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\App.g.cs
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\zd3_Laptev_Nikita_MarkupCompile.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\zd3_Laptev_Nikita.g.resources
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\zd3_Laptev_Nikita.Properties.Resources.resources
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\zd3_Laptev_Nikita.csproj.GenerateResource.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\zd3_Laptev_Nikita.csproj.CoreCompileInputs.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\bin\Debug\zd3_Laptev_Nikita.exe.config
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\bin\Debug\zd3_Laptev_Nikita.exe
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\bin\Debug\zd3_Laptev_Nikita.pdb
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\zd3_Laptev_Nikita.exe
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\zd3_Laptev_Nikita.pdb
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd3_Laptev_Nikita\zd3_Laptev_Nikita\obj\Debug\zd3_Laptev_Nikita.exe.config

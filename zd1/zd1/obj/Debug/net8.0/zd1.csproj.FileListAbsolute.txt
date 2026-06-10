@@ -1,0 +1,14 @@
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\bin\Debug\net8.0\zd1.exe
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\bin\Debug\net8.0\zd1.deps.json
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\bin\Debug\net8.0\zd1.runtimeconfig.json
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\bin\Debug\net8.0\zd1.dll
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\bin\Debug\net8.0\zd1.pdb
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\obj\Debug\net8.0\zd1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\obj\Debug\net8.0\zd1.AssemblyInfoInputs.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\obj\Debug\net8.0\zd1.AssemblyInfo.cs
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\obj\Debug\net8.0\zd1.csproj.CoreCompileInputs.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\obj\Debug\net8.0\zd1.dll
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\obj\Debug\net8.0\refint\zd1.dll
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\obj\Debug\net8.0\zd1.pdb
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\obj\Debug\net8.0\zd1.genruntimeconfig.cache
+Z:\Desktop\Программирование\Учебная практика\zd1_Laptev_Nikita\zd1\zd1\obj\Debug\net8.0\ref\zd1.dll

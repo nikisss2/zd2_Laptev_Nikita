@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_Laptev_Nikita.Views.CalculatorPage"
+             Title="Кредитный калькулятор">
+
+    <StackLayout Padding="20" Spacing="12">
+
+        <Label Text="Сумма кредита:" />
+        <Entry x:Name="sumEntry" Keyboard="Numeric" />
+
+        <Label Text="Срок (месяцев):" />
+        <Entry x:Name="termEntry" Keyboard="Numeric" />
+
+        <Label Text="Вид платежа:" />
+        <Picker x:Name="typePicker"
+                SelectedIndexChanged="OnTypeChanged">
+            <Picker.Items>
+                <x:String>Аннуитетный</x:String>
+                <x:String>Дифференцированный</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Label Text="Процентная ставка:" />
+        <Slider x:Name="rateSlider"
+                Minimum="1" Maximum="30" Value="5"
+                ValueChanged="OnRateChanged" />
+        <Label x:Name="rateLabel" Text="5%" HorizontalOptions="Center" />
+
+        <Button Text="Рассчитать" Clicked="OnCalculateClicked" />
+
+        <Label x:Name="monthlyLabel" Text="Ежемесячный платеж: ...." Margin="0,15,0,0" />
+        <Label x:Name="totalLabel" Text="Общая сумма: ...." />
+        <Label x:Name="overpayLabel" Text="Переплата: ...." />
+
+    </StackLayout>
+</ContentPage>

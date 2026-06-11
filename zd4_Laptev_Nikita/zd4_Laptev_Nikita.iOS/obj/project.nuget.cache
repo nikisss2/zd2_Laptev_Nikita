@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6UO2valdTvU=",
+  "success": true,
+  "projectFilePath": "Z:\\Desktop\\Программирование\\Учебная практика\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.iOS\\zd4_Laptev_Nikita.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\main_nikita\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\main_nikita\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\main_nikita\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

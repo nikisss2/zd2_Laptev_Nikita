@@ -1,0 +1,13 @@
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\optimized\
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\zd4_Laptev_Nikita.iOS.csproj.AssemblyReference.cache
+Z:\Desktop\Программирование\Учебная практика\zd4_Laptev_Nikita\zd4_Laptev_Nikita\zd4_Laptev_Nikita.iOS\obj\iPhone\Debug\zd4_Laptev_Nikita.iOS.csproj.CoreCompileInputs.cache

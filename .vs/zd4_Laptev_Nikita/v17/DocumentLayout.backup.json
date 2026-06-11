@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\views\\calculatorpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\views\\calculatorpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\views\\currencypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\views\\currencypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\views\\currencypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\views\\currencypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|z:\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_laptev_nikita\\zd4_laptev_nikita\\zd4_laptev_nikita\\views\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BBE78F-0B92-4D49-B0BB-883B8F1A6775}|zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj|solutionrelative:zd4_laptev_nikita\\zd4_laptev_nikita\\views\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2051499160:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:46:48.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsViewModel.cs",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\ViewModels\\ItemsViewModel.cs",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\ViewModels\\ItemsViewModel.cs",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\ViewModels\\ItemsViewModel.cs",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\ViewModels\\ItemsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:46:09.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "zd4_Laptev_Nikita",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T06:26:14.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\App.xaml",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\App.xaml",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\App.xaml",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T06:19:24.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrencyPage.xaml.cs",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CurrencyPage.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CurrencyPage.xaml.cs",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CurrencyPage.xaml.cs",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CurrencyPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:19:04.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyPage.xaml",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CurrencyPage.xaml",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CurrencyPage.xaml",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CurrencyPage.xaml",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CurrencyPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T06:18:29.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculatorPage.xaml.cs",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CalculatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CalculatorPage.xaml.cs",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CalculatorPage.xaml.cs",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CalculatorPage.xaml.cs",
+              "ViewState": "AgIAADQAAAAY5MzMzAwvwDoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:17:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorPage.xaml",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CalculatorPage.xaml",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CalculatorPage.xaml",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CalculatorPage.xaml",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\Views\\CalculatorPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T06:17:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\App.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\App.xaml.cs",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\App.xaml.cs",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\App.xaml.cs",
+              "ViewState": "AgIAAAEAAAAglJmZmZkewBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:15:49.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GettingStarted.txt",
+              "DocumentMoniker": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\GettingStarted.txt",
+              "RelativeDocumentMoniker": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\GettingStarted.txt",
+              "ToolTip": "Z:\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\GettingStarted.txt",
+              "RelativeToolTip": "zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\GettingStarted.txt",
+              "ViewState": "AgIAAAAAAAAoZ2ZmZuYnwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-11T05:58:48.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

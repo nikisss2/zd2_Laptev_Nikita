@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_Laptev_Nikita.Views.WelcomePage"
+             StyleId="welcomePage"
+             Title="Welcome">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="/mystyles.css" />
+    </ContentPage.Resources>
+
+    <StackLayout Padding="30" Spacing="0" VerticalOptions="Center">
+
+        <Label Text="Welcome" StyleId="title" />
+
+        <Entry x:Name="usernameEntry"
+               Placeholder="Username"
+               StyleClass="field" />
+
+        <Entry x:Name="passwordEntry"
+               Placeholder="Password"
+               IsPassword="True"
+               StyleClass="field" />
+
+        <Button x:Name="signInButton"
+                Text="Sign in"
+                StyleId="signInButton"
+                Clicked="OnSignInClicked" />
+
+    </StackLayout>
+</ContentPage>

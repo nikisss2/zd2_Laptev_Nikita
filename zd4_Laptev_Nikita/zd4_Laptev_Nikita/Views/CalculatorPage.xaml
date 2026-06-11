@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_Laptev_Nikita.Views.CalculatorPage"
+             Title="Кредитный калькулятор">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="/mystyles.css" />
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="12">
+
+            <!-- Передача фамилии, стилизована как Sign in -->
+            <Label x:Name="greetingLabel" StyleId="greeting" />
+
+            <Label Text="Сумма кредита:" />
+            <Entry x:Name="sumEntry" Placeholder="Введите сумму"
+                   Keyboard="Numeric" />
+
+            <Label Text="Срок (месяцев):" />
+            <Entry x:Name="termEntry" Placeholder="Введите срок"
+                   Keyboard="Numeric" />
+
+            <Label x:Name="rateLabel" Text="0%" />
+            <Slider x:Name="rateSlider" Minimum="0" Maximum="50"
+                    ValueChanged="OnRateChanged" />
+
+            <Label Text="Тип платежа:" />
+            <Picker x:Name="typePicker" SelectedIndexChanged="OnTypeChanged">
+                <Picker.Items>
+                    <x:String>Аннуитетный</x:String>
+                    <x:String>Дифференцированный</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Button Text="Рассчитать" Clicked="OnCalculateClicked" />
+
+            <Label x:Name="monthlyLabel" />
+            <Label x:Name="totalLabel" />
+            <Label x:Name="overpayLabel" />
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

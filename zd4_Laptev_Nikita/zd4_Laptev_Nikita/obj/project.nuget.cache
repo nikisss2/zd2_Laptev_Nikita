@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvF9S8Mn2uk=",
+  "success": true,
+  "projectFilePath": "Z:\\Desktop\\Программирование\\Учебная практика\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\main_nikita\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\main_nikita\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\main_nikita\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\main_nikita\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\main_nikita\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс служб для источника https://api.nuget.org/v3/index.json.",
+      "projectPath": "Z:\\Desktop\\Программирование\\Учебная практика\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj",
+      "warningLevel": 1,
+      "filePath": "Z:\\Desktop\\Программирование\\Учебная практика\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita\\zd4_Laptev_Nikita.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

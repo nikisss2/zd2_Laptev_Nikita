@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd5_2_Laptev.Views.ThirdPage"
+             Title="Third">
+    <StackLayout Padding="20" VerticalOptions="Center" Spacing="20">
+
+        <Picker x:Name="optionPicker"
+                Title="DROPDOWN"
+                StyleClass="dropdown">
+            <Picker.Items>
+                <x:String>OPTION 1</x:String>
+                <x:String>OPTION 2</x:String>
+                <x:String>OPTION 3</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Label Text="Слайдер:" />
+        <Slider x:Name="valueSlider"
+                Minimum="0"
+                Maximum="100"
+                Value="0" />
+
+        <Button Text="BUTTON"
+                StyleClass="redButton"
+                Clicked="OnButtonClicked" />
+
+        <Label x:Name="resultLabel" StyleClass="resultText" />
+    </StackLayout>
+</ContentPage>
